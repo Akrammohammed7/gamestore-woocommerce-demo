@@ -14,6 +14,14 @@ Local demo (LocalWP): `gamestore-demo.local`
 - GA4 analytics tagging (Measurement ID installed and verified in page source)
 - Backup + maintenance basics (UpdraftPlus)
 
+## Proof
+✅ GA4 tag installed (gtag present in page source)
+
+✅ WooCommerce flow: Shop → Product → Cart → Checkout
+
+✅ Backup created with UpdraftPlus
+
+
 ## Tech Stack
 - WordPress + WooCommerce
 - Astra theme
